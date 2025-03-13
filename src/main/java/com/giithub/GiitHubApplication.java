@@ -8,7 +8,7 @@ public class GiitHubApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GiitHubApplication.class, args);
-		System.out.println("HIIII !!!");
+		System.out.println("Helllloooo !!!");
 	}
 
 }
