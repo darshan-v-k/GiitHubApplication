@@ -11,4 +11,9 @@ public class Yash {
     public String yash(){
         return "BOSS !!";
     }
+
+    @GetMapping("/dboss")
+    public String dboss(){
+        return "D-BOSS !!";
+    }
 }
